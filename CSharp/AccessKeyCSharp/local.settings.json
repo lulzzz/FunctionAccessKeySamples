@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "KEYVAULT_ENDPOINT": "https://{your Key Vault name}.vault.azure.net/",
+    "FUNCTION_ADMIN_ENDPOINT": "https://{your Function App name}.azurewebsites.net/admin/functions/GetTokenCallAPI/keys?code=",
+    "AUTHORITY": "https://login.microsoftonline.com/{your Azure AD Tenant ID}",
+    "RESOURCE_ID": "{your Azure AD API resource ID}",
+    "API_URL": "{the URL of the API you are calling}"
+  }
+}

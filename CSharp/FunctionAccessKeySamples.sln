@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30704.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessKeyCSharp", "AccessKeyCSharp\AccessKeyCSharp.csproj", "{DEACDC7E-6FCD-44BB-899E-984E9553B8B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkspaceEmulator", "WorkspaceEmulator\WorkspaceEmulator.csproj", "{E0ECCF05-5937-4A0C-826C-814894B916DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEACDC7E-6FCD-44BB-899E-984E9553B8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEACDC7E-6FCD-44BB-899E-984E9553B8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEACDC7E-6FCD-44BB-899E-984E9553B8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEACDC7E-6FCD-44BB-899E-984E9553B8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0ECCF05-5937-4A0C-826C-814894B916DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0ECCF05-5937-4A0C-826C-814894B916DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0ECCF05-5937-4A0C-826C-814894B916DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0ECCF05-5937-4A0C-826C-814894B916DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4E8686-F884-43EA-BE15-90596394904B}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nimccoll.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AccessKeyCSharp\\AccessKeyCSharp.csproj
+		SccProjectName1 = AccessKeyCSharp
+		SccLocalPath1 = AccessKeyCSharp
+		SccProjectUniqueName2 = WorkspaceEmulator\\WorkspaceEmulator.csproj
+		SccProjectName2 = WorkspaceEmulator
+		SccLocalPath2 = WorkspaceEmulator
+	EndGlobalSection
+EndGlobal

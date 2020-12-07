@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WorkspaceEmulator": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "FUNCTION_KEY": "{your Function App function key}",
+        "FUNCTION_URL": "https://{your Function App name}.azurewebsites.net/api/GetTokenCallAPI?code="
+      }
+    }
+  }
+}
